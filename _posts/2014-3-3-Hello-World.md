@@ -3,8 +3,6 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+<b>“ฉบับสรุปยอดความคิด” (Key Idea Summary)</b> คือ ผลงานสังเคราะห์ความรู้จากหนังสือผลงานเขียนก้องโลกยอดขายหลักล้านเล่ม ที่จับเอาเฉพาะแก่นความคิดของหนังสือมาให้คุณอ่านจบได้ในชั่วเวลาพักระหว่างวันไม่กี่นาที ทำให้ผู้ที่เป็นสนใจใฝ่รู้ หรือรักการพัฒนาศักยภาพตัวเองอยู่เสมอ <b>ไม่ต้องทนฝืนอ่าน ไม่เปลืองเวลามาก ไม่พลาดโอกาส ในการทำความรู้จักความคิดที่ลึกซึ้ง</b> วิสัยทัศน์อันเหลือเชื่อ และทิศทางการหมุนไปของโลกในด้านต่าง ๆ ที่กลั่นจากประสบการณ์และมุมมองของคนที่ฉลาด ทำงานหนัก ทั้งเชี่ยวชาญยิ่งในงานหรือความชำนาญของเขา
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+"การอ่านหนังสือ มีค่าเสมือนการได้นั่งสนทนากับ คนฉลาดแห่งยุค"
