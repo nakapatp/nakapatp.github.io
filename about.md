@@ -16,4 +16,4 @@ permalink: /about/
 
 นิสรา ปัญญาเจริญ [nakapatp@yahoo.com](mailto:nakapatp@yahoo.com)
 <p><img src="https://i.imgur.com/hRiMZnH.png" width="256"></p>
-QR Code ร้านหนังสือออนไลน์
+QR Code ร้านหนังสือออนไลน์ <a href="https://store.kumnum.com/shop.html?id=HA1713" target="_blank">ไปยังหน้าร้าน</a>
