@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h3>15 นาทีต่อวัน ทำอะไรจึงคุ้มค่าที่สุด?</h3>
-<p><i>"นั่งสนทนากับคนฉลาดแห่งยุค ผ่านผลงานเขียนของเขา"</i></p>
+<img src="https://i.imgur.com/D0TTydX.jpg" width="100%">
 
 ### More Information
 
