@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://i.imgur.com/D0TTydX.jpg" width="100%">
+<img src="https://i.imgur.com/1gONwlf.jpg" width="100%">
 
 ### More Information
 
