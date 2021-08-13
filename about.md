@@ -15,3 +15,5 @@ permalink: /about/
 ### Contact me
 
 นิสรา ปัญญาเจริญ [nakapatp@yahoo.com](mailto:nakapatp@yahoo.com)
+<p><img src="https://i.imgur.com/hRiMZnH.png" width="256"></p>
+QR Code ร้านหนังสือออนไลน์
