@@ -45,4 +45,4 @@ title: ค่ายกักกันของนาซี ไม่ได้ถ
 <p>เป็นหลักการที่คุณ “ต้องรู้” เพื่อเปลี่ยนนิสัยของตัวเอง แล้วชีวิตที่เหลือนับจากนี้จะเปลี่ยนไป เช่นเดียวกับคนอีกนับล้านที่ชื่นชอบหนังสือเล่มนี้</p>
 
 อ่านออนไลน์ฟรี (ตัวอย่าง) <a href="https://www.designrr.io" target="_blank">https://www.designrr.io</a><br>
-สั่งซื้อออนไลน์ 125 บ. <a href="https://store.kumnum.com/checkout.html?id=HA17139360" target="_blank">https://store.kumnum.com</a>
+สั่งซื้อออนไลน์ 125 บ. <a href="https://store.kumnum.com/checkout.html?product_id=HA17139360" target="_blank">https://store.kumnum.com</a>
