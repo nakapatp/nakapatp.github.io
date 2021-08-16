@@ -27,4 +27,4 @@ title: แจกลิงค์หนังสือ Best Seller ฟรี! อ�
 <li>บทส่งท้าย</li>
 </ol>
 อ่านออนไลน์ฟรี (ฉบับเต็ม) <a href="https://designrr.page/?id=117996&token=1800752461&type=FP&h=5946" target="_blank">https://www.designrr.io</a><br>
-สั่งซื้อออนไลน์ 125 บ. <a href="https://store.kumnum.com/checkout.html?id=HA17137015" target="_blank">https://store.kumnum.com</a>
+สั่งซื้อออนไลน์ 125 บ. <a href="https://store.kumnum.com/checkout.html?product_id=HA17137015" target="_blank">https://store.kumnum.com</a>
