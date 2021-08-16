@@ -33,4 +33,4 @@ title: อำนาจบังคับบัญชา ตกอยู่ใน
 หากคุณคิดจะออกแน่ ๆ ยิ่งต้องอ่าน จะได้รู้ว่ามันควรจบลงยังไง </p>
 
 อ่านออนไลน์ฟรี (ตัวอย่าง) <a href="https://www.designrr.io" target="_blank">https://www.designrr.io</a><br>
-สั่งซื้อออนไลน์ 125 บ. <a href="https://store.kumnum.com/checkout.html?id=HA17133492" target="_blank">https://store.kumnum.com</a>
+สั่งซื้อออนไลน์ 125 บ. <a href="https://store.kumnum.com/checkout.html?product_id=HA17133492" target="_blank">https://store.kumnum.com</a>
